@@ -1,0 +1,26 @@
+html * {
+  font-family: 'Archivo', sans-serif;
+}
+
+#main {
+  padding-top: 10%;
+  background-image: linear-gradient(to bottom right, #ED6A5A, #5CA4A9);
+  height:100vh;
+}
+
+#form{
+  height: auto;
+  background-color: #F4F1BB;
+  color: #3A506B;
+  padding: 50px 25px 50px 25px;
+  border-radius: 5px;
+}
+
+#button{
+  background-color: #3A506B;
+  color: white;
+}
+#button:hover{
+  background-color: #1C2541;
+  color: white;
+}
